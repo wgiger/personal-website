@@ -115,7 +115,7 @@ class AppComponent {
         this.title = 'Personal Website';
         this.height = 100;
         this.width = 100;
-        this.name = new Audio('../assets/voice.mp3');
+        this.name = new Audio('assets/voice.mp3');
         this.myStyle = {
             position: 'fixed',
             width: '100%',
