@@ -1,18 +1,15 @@
-body {
-    display: flex;
-    margin: 0;
-}
-
 .home-container {
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
+    align-self: center;
 }
 
 .description {
-    width: 40%;
-    margin: 10px;
+    width: 60%;
+    margin: 30px;
+    font-size: larger;
 }
 
 #name-play {
@@ -38,4 +35,8 @@ body {
 
 .icon {
     display: inline-block;
+}
+
+.titles {
+    font-size: large !important;
 }

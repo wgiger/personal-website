@@ -1,2 +1,9 @@
 html, body { height: 100%; }
-* { font-family: 'Advent Pro' }
+* { font-family: 'Advent Pro'; }
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
