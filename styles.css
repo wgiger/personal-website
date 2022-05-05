@@ -2193,7 +2193,14 @@ th.mat-header-cell, td.mat-cell, td.mat-footer-cell {
   color: #ff4081;
 }
 html, body { height: 100%; }
-* { font-family: 'Advent Pro' }
+* { font-family: 'Advent Pro'; }
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
 @font-face {
   font-family: 'Material Icons';
   font-style: normal;
