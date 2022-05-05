@@ -9,7 +9,7 @@ export class AppComponent {
   public readonly title = 'Personal Website';
   public readonly height = 100;
   public readonly width = 100;
-  public readonly name = new Audio('../assets/voice.mp3')
+  public readonly name = new Audio('assets/voice.mp3')
   public myStyle = {
     position: 'fixed',
     width: '100%',
