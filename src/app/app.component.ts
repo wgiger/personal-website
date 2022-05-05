@@ -27,7 +27,7 @@ export class AppComponent {
         value: 200,
       },
       color: {
-        value: '#6699cc',
+        value: '#7DBCDE',
       },
       shape: {
         type: 'triangle',
