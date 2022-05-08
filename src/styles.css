@@ -1,5 +1,5 @@
 html, body { height: 100%; }
-* { font-family: 'Advent Pro'; }
+* { font-family: 'Advent Pro'; overflow-y: hidden; overflow-x: hidden;}
 .main {
     display: flex;
     align-items: center;
